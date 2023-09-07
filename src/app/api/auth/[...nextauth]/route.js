@@ -14,8 +14,8 @@ export const authOption = {
     secret: process.env.JWT_KEY,
     providers: [
         GitHubProvider({
-            clientId: '4989e366577ddc0d4c53',
-            clientSecret: '8541f63476aba3eaadc8f8f1c4fc4125dca03290'
+            clientId: 'dfers6577ddc0d4c53',
+            clientSecret: '8541f63476abasdfedrf25dca03290'
         })
     ]
 }
