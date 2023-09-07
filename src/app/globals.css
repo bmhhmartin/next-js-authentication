@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-style {
+    @apply font-medium px-3 py-2 rounded-lg text-white bg-red-700 hover:bg-blue-800 hover:text-white;
+  }
+
+
+
